@@ -8,4 +8,4 @@ The intention is to provide a swift creation wat of customized procedure based u
 
 To take use of it, simply modify Makefile of yours & execute "make" and include related header files.
 
-Please notice that currently it is only support Linux platform.
+Please notice that currently it is only supported at Linux platform.
